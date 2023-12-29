@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Java OOP",
+      "comment": "Great course"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Kotlin OOP",
+      "comment": "Nice course"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Scala OOP",
+      "comment": "Fantastic course"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Groovy OOP",
+      "comment": "Great title"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Python OOP",
+      "comment": "Lovely course"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "C++ OOP",
+      "comment": "Wonderful course"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "C# OOP",
+      "comment": "Nice course"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Kotlin - Coroutines",
+      "comment": "Modern course"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "Java - Functional programming",
+      "comment": "Modern course"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Scala - Functional programming",
+      "comment": "Modern course"
+    }
+  ]
+}
